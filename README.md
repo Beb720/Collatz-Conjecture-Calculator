@@ -3,7 +3,7 @@
 This is a program to calculate and display every step of the Collatz Conjecture in the Python console.
 
 Why? Beacue I thought the idea of this mathmatics problem was intriguing and want to share it a little.
-#
+
 # What is the Collatz Conjecture?
 The Collatz Conjecture is a mathematical conjecture that asks whether repeating two arithmetic operations will eventuall transform every positive integer into 1.
 
